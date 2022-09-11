@@ -44,7 +44,6 @@ Y alguna más...
 
 ## Contacto y apoyo:
 
-</br>
 [![Email](https://img.shields.io/badge/esnilg@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:esnilg@gmail.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
