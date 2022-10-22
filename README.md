@@ -7,7 +7,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/esnilg?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/esnilg?style=social)
 
-Soy ...
+Soy licenciado en matemática con más de 7 años de experiencia desarrollando modelos de predicción y clasificación. También tengo conocimientos avanzados en la interpretación de modelos de ML, en estadística, en optimización y en herramientas/lenguajes computacionales como Python y R. En estos últimos años he adquirido experiencia en procesamientos de datos y en herramientas de Data Science. En mi vida profesional he desarrollados modelos estadísticos tanto para la industria farmacéutica como en los sistemas de energía. Sin embargo, me gustaría expandirme a otras aplicaciones y/o al mundo financiero. También, me interesa poder trabajar en grupos multidisciplinarios de investigación, haciendo modelos matemáticos para suministrar información a través de la inferencia estadística. Me adapto rápidamente a cualquier proyecto y estoy deseoso de brindar todo mi conocimiento y esfuerzo para el cumplimiento de los objetivos.
 
 ## Tecnologías:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
