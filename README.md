@@ -28,6 +28,11 @@ Soy licenciado en matemática con más de 7 años de experiencia desarrollando m
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-4479A1?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![R](https://img.shields.io/badge/R-4479A1?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)]()
+[![Matlab](https://img.shields.io/badge/Matlab-4479A1?style=for-the-badge&logo=Matlab&logoColor=white&labelColor=101010)]()
+[![Julia](https://img.shields.io/badge/Julia-4479A1?style=for-the-badge&logo=Julia&logoColor=white&labelColor=101010)]()
+
+
 </br>
 Y alguna más...
 
