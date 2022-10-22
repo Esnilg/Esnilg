@@ -1,7 +1,7 @@
 #  Hola, mi nombre es Esnil Guevara 👋
 ### Operation Research & Machine Learning & Data Scientist
 
-![https://esnilg.github.io/markdown-portfolio/]
+![https://esnilg.github.io/markdown-portfolio/](https://thumbs.dreamstime.com/z/conceptual-business-illustration-words-operations-research-conceptual-business-illustration-words-operations-110227146.jpg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/esnilg?style=social)](https://twitter.com/esnilg)
 ![GitHub Followers](https://img.shields.io/github/followers/esnilg?style=social)
